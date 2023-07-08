@@ -2,8 +2,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ProjectManagementSystemProject.Controller;
 
+package com.mycompany.parkingsystem.Controllers;
 import java.io.File;
 import java.io.IOException;
 
